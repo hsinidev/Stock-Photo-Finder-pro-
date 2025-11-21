@@ -1,0 +1,5 @@
+{
+  "name": "Stellar Stock Photo Finder",
+  "description": "A modern, gallery-focused application to find stunning, free-to-use stock photos. Features a dynamic, responsive grid powered by an external image API, set against a beautiful animated galaxy background.",
+  "requestFramePermissions": []
+}
