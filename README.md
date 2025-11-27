@@ -14,7 +14,7 @@
   </p>
   
   <h3>
-    🚀 <a href="https://stellarstockphotofinder.doodax.com" target="_blank">LIVE DEMO</a>
+    🚀 <a href="https://doodax.com/tools/stellar-stock/index.html" target="_blank">LIVE DEMO</a>
   </h3>
 </div>
 
